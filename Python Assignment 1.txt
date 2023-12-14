@@ -1,6 +1,0 @@
-Nama		    : Resti Apriliyanti
-Nomor Peserta	: PYTN-KS20-011
-Program		    : Python for Data Science
-
-Link Repository Assignment 1: 
-https://github.com/RestiApriliyanti/Hacktiv8_Python_Assignment
